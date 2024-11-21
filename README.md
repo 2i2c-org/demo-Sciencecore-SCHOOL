@@ -1,1 +1,1 @@
-# demo-TOPST-SCHOOL
+# demo-Sciencecore-SCHOOL
