@@ -16,6 +16,8 @@ project:
     
 site:
   template: book-theme
-  # options:
+  options:
+    logo_text: SCHOOL
+
   #   favicon: favicon.ico
   #   logo: site_logo.png
